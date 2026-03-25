@@ -13,9 +13,6 @@ main:
   - name: Research
     url: research
     weight: 30
-  - name: People
-    url: people
-    weight: 40
   - name: Careers
     url: '/people/careers/'
     weight: 50
